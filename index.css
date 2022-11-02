@@ -1,0 +1,29 @@
+.navbar{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+body{
+    background-color: black;
+}
+p{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+.container img{
+    margin-left: 25%;
+    border-radius: 50%;
+}
+footer{
+    text-align: center;
+    background-color: blue;
+    height: 50px;
+    border-radius: 20px;
+}
